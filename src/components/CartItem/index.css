@@ -1,0 +1,19 @@
+.cart-item{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.cart-item img{
+    height: 100px;
+    width: 150px;
+}
+
+.remove-btn, .move-btn {
+    background-color: lightblue;
+}

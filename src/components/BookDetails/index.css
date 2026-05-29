@@ -1,0 +1,22 @@
+.bd-img-container{
+    width: 40vw;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray  ;
+    margin-top: auto;
+    margin: 20px;
+
+}
+.bd-img-container img{
+    height: 70%;
+    width: 70%;
+}
+.main-container{
+    display: flex;
+    flex-direction: row;
+    
+    align-items: center;
+}
